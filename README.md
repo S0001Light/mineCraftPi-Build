@@ -4,7 +4,7 @@ also, you will need to delete and draw with an o, as the character, This macro w
 
 save each sheet as a dot csv file from LibreOffice, delete extra characters and turn into a python file with what is hashtag'd in this file the three lines here
 
-on this file, starting with #from, place at the beginning of the python file, 
+on this file, starting with #from, and delete hashtags, place at the beginning of the python file, 
 
 
 #while running python from terminal on a raspberry pi that can open Minecraft by typing sudo minecraft-pi from Terminal.
